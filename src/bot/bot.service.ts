@@ -145,7 +145,7 @@ export class BotService implements OnModuleInit, OnModuleDestroy {
             [
               {
                 text: 'Статистика чата',
-                url: 'https://google.com',
+                url: 'https://skill-a7twoezq6-nurbanu.vercel.app',
               },
             ],
           ],
